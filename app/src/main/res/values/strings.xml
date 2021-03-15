@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">DTT</string>
+    <string name="app_welcome">Welcome to the Dream Team Test Project &lt;3</string>
+    <string name="pls">Please make some changes here (or create your own page that you can mess
+    around with some code and see how it all looks in github)</string>
+    <string name="ps">PS. don\'t worry, all changes can be undone so nothing will break and you
+    won't ruin anyone's code. GO WILD</string>
+    <string name="del">del</string>
 </resources>
