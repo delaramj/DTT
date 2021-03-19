@@ -80,4 +80,15 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
+
+    <Switch
+        android:id="@+id/katieSwitch"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="mornin!"
+        android:textColor="#B31212"
+        android:textColorLink="#CA2626"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="144dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
